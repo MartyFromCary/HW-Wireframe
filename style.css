@@ -82,7 +82,6 @@ aside {
 	float: right;
 }
 
-
 a {
 	color: #ebebeb;
 	/*text-decoration: none;*/
@@ -103,5 +102,5 @@ img {
 }
 
 p::first-letter {
-    font-size: 120%;
+	font-size: 120%;
 }
